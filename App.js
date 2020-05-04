@@ -52,6 +52,7 @@ export default function App() {
       Keyboard.dismiss()
     }}>
 
+      {/* Call Timer js File with this line */}
       {/* <TimerComponent/> */}
 
       <View style={styles.container}>
