@@ -51,9 +51,6 @@ export default function App() {
     <TouchableWithoutFeedback onPress={() =>{
       Keyboard.dismiss()
     }}>
-
-      {/* <TimerComponent/> */}
-
       <View style={styles.container}>
       <Header title="Guessing Number"></Header>
       <View style = {styles.content}>
